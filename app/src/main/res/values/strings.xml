@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FootDeliveryApp</string>
+    <string name="enjoy_your_favourite">Enjoy your favourite\nfood delicous</string>
+    <string name="eybisi_salad_mix">Eybisi Salad Mix</string>
+    <string name="mix_vegetables_inggridients">Mix vegetables inggridients</string>
+    <string name="easy_greak_salad">Easy Greak\nSalad</string>
+    <string name="price">Price</string>
+    <string name="dallar">$21.99</string>
+    <string name="choice_uantity">Choice quantity</string>
+    <string name="description">Description</string>
+    <string name="rating">4.9</string>
+    <string name="description_text">This Italian salad is full of all the right flavors and textures: crisp lettuce, crunchy garlic croutons, and zingy pepperoncini. It’s covered in punchy, herby Italian vinaigrette that makes the flavors sing! It can play sidekick to just about anything.</string>
+    <string name="order_now">Order Now</string>
+    <string name="add_chart">Add Chart</string>
+</resources>
